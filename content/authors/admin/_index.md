@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: VAGNIER Lucas
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Lucas
+last_name: VAGNIER
 
 # Status emoji
 status:
@@ -20,31 +20,24 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: DevOps / Python & Ruby engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: France Travail
     url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:lucas.vagnier@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/lucasvdev
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/lucas-vagnier-a43815141/
 
 interests:
   - Artificial Intelligence
@@ -183,4 +176,10 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I've been fascinated by new technologies, and more particularly by computing, since I was very young.
+Self-taught, I learned a lot about the technical side of things thanks to the Internet, then all my studies enabled me to reinforce my technical skills, but also to acquire new ones such as: project management, management, ...
+My curiosity and desire to learn mean that I'm always looking to discover and learn new things (whatever the field) and are also partly responsible for my interest in many different things: trading, computer-assisted music, 3D printing, cycling, ...
+Luckily, IT is a rich and vast field that is constantly evolving, allowing me to learn and discover new things every day.
+I'm also a fan of agile methods and the DevOps culture.
+
+Code quality is a major concern for me, and I try to develop in TDD mode whenever possible.
