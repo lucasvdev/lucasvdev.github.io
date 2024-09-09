@@ -3,7 +3,7 @@
 title: VAGNIER Lucas
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Lucas
@@ -24,8 +24,8 @@ role: DevOps / Python & Ruby engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: France Travail
-    url: https://openai.com/
+#  - name: France Travail
+#    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -121,7 +121,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Downhill bike
         description: ''
         percent: 60
         icon: person-simple-walk
@@ -135,11 +135,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: French
     percent: 100
-  - name: Chinese
+  - name: English
     percent: 75
-  - name: Portuguese
+  - name: Spanish
     percent: 25
 
 # Awards.
